@@ -1,0 +1,10 @@
+C:\Users\Ринат\documents\visual studio 2015\Projects\Kpo4381_Mokin.Main\Kpo4381_Mokin.Tests\bin\Debug\Kpo4381_Mokin.Tests.dll.config
+C:\Users\Ринат\documents\visual studio 2015\Projects\Kpo4381_Mokin.Main\Kpo4381_Mokin.Tests\bin\Debug\Kpo4381_Mokin.Tests.dll
+C:\Users\Ринат\documents\visual studio 2015\Projects\Kpo4381_Mokin.Main\Kpo4381_Mokin.Tests\bin\Debug\Kpo4381_Mokin.Tests.pdb
+C:\Users\Ринат\documents\visual studio 2015\Projects\Kpo4381_Mokin.Main\Kpo4381_Mokin.Tests\bin\Debug\Kpo4381_Mokin.Lib.dll
+C:\Users\Ринат\documents\visual studio 2015\Projects\Kpo4381_Mokin.Main\Kpo4381_Mokin.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Ринат\documents\visual studio 2015\Projects\Kpo4381_Mokin.Main\Kpo4381_Mokin.Tests\bin\Debug\Kpo4381_Mokin.Lib.pdb
+C:\Users\Ринат\documents\visual studio 2015\Projects\Kpo4381_Mokin.Main\Kpo4381_Mokin.Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Ринат\documents\visual studio 2015\Projects\Kpo4381_Mokin.Main\Kpo4381_Mokin.Tests\obj\Debug\Kpo4381_Mokin.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Ринат\documents\visual studio 2015\Projects\Kpo4381_Mokin.Main\Kpo4381_Mokin.Tests\obj\Debug\Kpo4381_Mokin.Tests.dll
+C:\Users\Ринат\documents\visual studio 2015\Projects\Kpo4381_Mokin.Main\Kpo4381_Mokin.Tests\obj\Debug\Kpo4381_Mokin.Tests.pdb

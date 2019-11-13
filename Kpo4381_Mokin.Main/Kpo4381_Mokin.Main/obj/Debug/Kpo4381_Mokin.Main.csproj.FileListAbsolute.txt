@@ -1,0 +1,12 @@
+c:\users\ринат\documents\visual studio 2015\Projects\Kpo4381_Mokin.Main\Kpo4381_Mokin.Main\bin\Debug\Kpo4381_Mokin.Main.exe.config
+c:\users\ринат\documents\visual studio 2015\Projects\Kpo4381_Mokin.Main\Kpo4381_Mokin.Main\obj\Debug\Kpo4381_Mokin.Main.csprojResolveAssemblyReference.cache
+c:\users\ринат\documents\visual studio 2015\Projects\Kpo4381_Mokin.Main\Kpo4381_Mokin.Main\obj\Debug\Kpo4381_Mokin.Main.FrmMain.resources
+c:\users\ринат\documents\visual studio 2015\Projects\Kpo4381_Mokin.Main\Kpo4381_Mokin.Main\obj\Debug\Kpo4381_Mokin.Main.Properties.Resources.resources
+c:\users\ринат\documents\visual studio 2015\Projects\Kpo4381_Mokin.Main\Kpo4381_Mokin.Main\obj\Debug\Kpo4381_Mokin.Main.FrmParticipant.resources
+c:\users\ринат\documents\visual studio 2015\Projects\Kpo4381_Mokin.Main\Kpo4381_Mokin.Main\obj\Debug\Kpo4381_Mokin.Main.csproj.GenerateResource.Cache
+c:\users\ринат\documents\visual studio 2015\Projects\Kpo4381_Mokin.Main\Kpo4381_Mokin.Main\bin\Debug\Kpo4381_Mokin.Main.exe
+c:\users\ринат\documents\visual studio 2015\Projects\Kpo4381_Mokin.Main\Kpo4381_Mokin.Main\bin\Debug\Kpo4381_Mokin.Main.pdb
+c:\users\ринат\documents\visual studio 2015\Projects\Kpo4381_Mokin.Main\Kpo4381_Mokin.Main\bin\Debug\Kpo4381_Mokin.Lib.dll
+c:\users\ринат\documents\visual studio 2015\Projects\Kpo4381_Mokin.Main\Kpo4381_Mokin.Main\bin\Debug\Kpo4381_Mokin.Lib.pdb
+c:\users\ринат\documents\visual studio 2015\Projects\Kpo4381_Mokin.Main\Kpo4381_Mokin.Main\obj\Debug\Kpo4381_Mokin.Main.exe
+c:\users\ринат\documents\visual studio 2015\Projects\Kpo4381_Mokin.Main\Kpo4381_Mokin.Main\obj\Debug\Kpo4381_Mokin.Main.pdb

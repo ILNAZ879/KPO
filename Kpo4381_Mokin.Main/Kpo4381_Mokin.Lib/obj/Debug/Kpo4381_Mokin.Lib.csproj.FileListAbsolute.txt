@@ -1,0 +1,5 @@
+c:\users\ринат\documents\visual studio 2015\Projects\Kpo4381_Mokin.Main\Kpo4381_Mokin.Lib\bin\Debug\Kpo4381_Mokin.Lib.dll
+c:\users\ринат\documents\visual studio 2015\Projects\Kpo4381_Mokin.Main\Kpo4381_Mokin.Lib\bin\Debug\Kpo4381_Mokin.Lib.pdb
+c:\users\ринат\documents\visual studio 2015\Projects\Kpo4381_Mokin.Main\Kpo4381_Mokin.Lib\obj\Debug\Kpo4381_Mokin.Lib.csprojResolveAssemblyReference.cache
+c:\users\ринат\documents\visual studio 2015\Projects\Kpo4381_Mokin.Main\Kpo4381_Mokin.Lib\obj\Debug\Kpo4381_Mokin.Lib.dll
+c:\users\ринат\documents\visual studio 2015\Projects\Kpo4381_Mokin.Main\Kpo4381_Mokin.Lib\obj\Debug\Kpo4381_Mokin.Lib.pdb
